@@ -5,8 +5,8 @@ Download TauroNet Browser to access this repository (EULA/S-EULA):
 [tauronet.gabrielmargarido.ga/](http://tauronet.gabrielmargarido.ga/). 
 
 #### Insert these information on TauroNet GitHub Browser. 
-URL: *bitcrack.net* 
-Domain: *polskidev* 
+URL: *bitcrack.net*  
+Domain: *polskidev*  
 
 Gabriel Margarido,  
 July 20, 2021
