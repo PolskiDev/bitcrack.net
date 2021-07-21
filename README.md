@@ -3,8 +3,8 @@ TauroNet Cracked Programs and Operating Systems
 ISO Repository (macOS, Windows, GNU/Linux)  
   
   
-Access this repository:  
-[Public Google Drive Repository](https://drive.google.com/drive/folders/1Bl1IKtH1MKf4wAlk-A3YnLqyWtoVWPj7?usp=sharing). 
+Access this repository:   
+[Public Google Drive Repository](https://drive.google.com/drive/folders/1Bl1IKtH1MKf4wAlk-A3YnLqyWtoVWPj7?usp=sharing)  
   
   
 Download TauroNet Browser to access this repository (EULA/S-EULA):  
