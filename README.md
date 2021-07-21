@@ -1,5 +1,5 @@
 # BitCrack.net
-TauroNet Cracked Programs and Operating Systems  
+TauroNet Cracked and Old Programs or Operating Systems  
 ISO Repository (macOS, Windows, GNU/Linux)  
   
   
